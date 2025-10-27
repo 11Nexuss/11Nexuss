@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @CrystalV2
-- 👀 I’m interested in Coding And minecraft/editing
-- 🌱 I’m currently learning Python
-- 📫 How to reach me add me on discord 11nexus
-
-<!---
-CrystalV2/CrystalV2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Advanced In python/c++
+Cheat developer for cs2/roblox
+How to reach me add me on discord 11nexuss or discord.gg/nexusware
