@@ -1,26 +1,26 @@
-<div align="left">
-### 👨‍💻 Other Things I do
-</div>
+### 👨‍💻 Other Things I do  
 
 <div align="center">
-<!-- Nexus / branding / company -->
-<img alt="Nexus" src="https://img.shields.io/badge/NEXUS-%20-0b1020?style=for-the-badge" />
-<img alt="Broadcom" src="https://img.shields.io/badge/BROADCOM-%20-b30000?style=for-the-badge" />
 
-<!-- Roles / specialties -->
-<img alt="Cheat Dev" src="https://img.shields.io/badge/CHEAT_DEV-%20-111111?style=for-the-badge" />
-<img alt="Kernel Driver" src="https://img.shields.io/badge/KERNEL_DRIVER-%20-0f5132?style=for-the-badge" />
-<img alt="Pen Testing" src="https://img.shields.io/badge/PEN_TESTING-%20-1f2937?style=for-the-badge" />
-<img alt="Reverse Engineering" src="https://img.shields.io/badge/REVERSE_ENG-%20-2f3b4a?style=for-the-badge" />
+<!-- core identity -->
+<img alt="Nexus" src="https://img.shields.io/badge/NEXUS-101820?style=for-the-badge&labelColor=101820&color=0f62fe" />
+<img alt="Broadcom" src="https://img.shields.io/badge/BROADCOM-101820?style=for-the-badge&labelColor=101820&color=b30000" />
 
-<!-- Languages / frameworks -->
-<img alt="C++" src="https://img.shields.io/badge/C++-%20-00599C?style=for-the-badge" />
-<img alt="Python" src="https://img.shields.io/badge/Python-%20-3776AB?style=for-the-badge" />
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%20-F7DF1E?style=for-the-badge" />
-<img alt="React" src="https://img.shields.io/badge/React-%20-61DAFB?style=for-the-badge" />
-<img alt="HTML/CSS" src="https://img.shields.io/badge/HTML%2FCSS-%20-E34F26?style=for-the-badge" />
+<!-- specialties -->
+<img alt="Cheat Dev" src="https://img.shields.io/badge/CHEAT_DEV-101820?style=for-the-badge&labelColor=101820&color=444444" />
+<img alt="Kernel Driver" src="https://img.shields.io/badge/KERNEL_DRIVER-101820?style=for-the-badge&labelColor=101820&color=198754" />
+<img alt="Pen Testing" src="https://img.shields.io/badge/PEN_TESTING-101820?style=for-the-badge&labelColor=101820&color=0d6efd" />
+<img alt="Reverse Eng" src="https://img.shields.io/badge/REVERSE_ENG-101820?style=for-the-badge&labelColor=101820&color=6c757d" />
+
+<!-- languages / frameworks -->
+<img alt="C++" src="https://img.shields.io/badge/C++-101820?style=for-the-badge&labelColor=101820&color=00599C&logo=c%2B%2B" />
+<img alt="Python" src="https://img.shields.io/badge/Python-101820?style=for-the-badge&labelColor=101820&color=3776AB&logo=python" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-101820?style=for-the-badge&labelColor=101820&color=F7DF1E&logo=javascript&logoColor=000000" />
+<img alt="React" src="https://img.shields.io/badge/React-101820?style=for-the-badge&labelColor=101820&color=61DAFB&logo=react&logoColor=000000" />
+<img alt="HTML/CSS" src="https://img.shields.io/badge/HTML%2FCSS-101820?style=for-the-badge&labelColor=101820&color=E34F26&logo=html5" />
+
 </div>
 
 <p align="center">
-I break shit for research — pen-testing, kernel drivers, reverse engineering, and building experimental tooling under **Nexus**. DM for private collabs.
+I break systems for research — pen-testing, kernel driver development, reverse engineering, and creative tooling under <b>Nexus</b>.
 </p>
