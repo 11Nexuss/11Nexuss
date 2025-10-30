@@ -1,15 +1,14 @@
-<h2 align="center">👨‍💻 Other Things I Do</h2>
+<h2 align="center">👨‍💻 Things I Do</h2>
 
 ---
 
-### 🧩 Identity
+### 🧩 Main focus
 <div align="center">
-<img alt="Nexus" src="https://img.shields.io/badge/NEXUS-0f62fe?style=for-the-badge&logoColor=white" />
 <img alt="Broadcom" src="https://img.shields.io/badge/BROADCOM-b30000?style=for-the-badge&logoColor=white" />
 </div>
 
 <p align="center">
-Senior Software Engineer @ Broadcom • Building and experimenting under the **Nexus** name.
+Senior Software Engineer @ Broadcom •
 </p>
 
 ---
